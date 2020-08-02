@@ -1,0 +1,118 @@
+h1{
+	font-family: Rowdies;
+	font-size: 4.5em;
+	color: #125383;
+	margin-bottom: 20px;
+}
+
+h2{
+	font-family: Recursive;
+	font-weight: 900;
+}
+
+p{
+	font-family: Recursive;
+	font-size: 1em;
+	font-weight: 400
+	color: #125383;
+}
+
+body{
+	padding-left: 8%;
+	padding-right: 8%;
+	background-color: #EFF9F8;
+	color: #125383;
+
+}
+
+a{
+	text-decoration: none;
+}
+
+.titles{
+	margin-bottom: 80px;
+}
+
+.card{
+	width: 100%;
+	max-width: 1200px;
+	min-height: 260px;
+	text-decoration: none;
+	padding-top: 5px;
+	color: #125383;
+	margin-bottom: 50px;
+	border-radius: 10px;
+}
+
+.card-text{
+   	font-size: 2em;
+   	margin-left: 40px;
+}
+
+.heroes{
+	background: url("heroes vs dragon.png");
+	background-size: 100% auto;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.WebSoC{
+	background: url("websoc.png");
+	background-size: 100% auto;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.Tagger{
+	background: url("tagger.png");
+	background-size: 100% auto;
+	background-repeat: no-repeat;
+	background-size: cover;
+	border: 0.6px solid #B0C7D7;
+}
+
+.heroes-text{
+
+	color: #D8E5ED;
+
+}
+
+.websoc-text{
+	color: #EDF8FF;
+}
+
+.tagger-text{
+	color: #577279;
+}
+
+p .caption{
+	font-family: 
+}
+
+.caption{
+	margin-top: 200px;
+	left: 50%;
+	text-align: center;
+	bottom: 20px;
+	margin-bottom: 20px;
+	font-family: "Comic Sans MS", "Comic Sans", cursive;
+	color: #799693;
+}
+
+.nav-bar{
+	width: 500px;
+	font-family: Rowdies;
+	font-size: 40px;
+	position: fixed;
+	position: fixed;
+	top: 80%;
+	left: 50%;
+	margin-left: -250px;
+}
+
+.nav-bar > a {
+	-webkit-text-stroke: 1px #125383;
+	color:rgba(239, 249, 248, 0.6);
+	margin-left: 25px;
+	margin-right: 25px;
+}
